@@ -12,5 +12,5 @@ mvn install
 mvn archetype:generate
 ```
 - next it will ask you to add a filter or the artifact-id of the maven archetype.
-- enter `better_quickstart`
-- follow the rest of the questions and you're done!
+- enter `better-quickstart`
+- follow the rest of the prompts and you're done!
