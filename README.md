@@ -33,7 +33,7 @@ To generate a new project using this archetype, run the following command:
 ```bash
 mvn archetype:generate \
     -DarchetypeGroupId=com.example \
-    -DarchetypeArtifactId=better-quickstart-archetype \
+    -DarchetypeArtifactId=better-quickstart \
     -DarchetypeVersion=1.0.0 \
     -DgroupId=com.mycompany.app \
     -DartifactId=my-app \
