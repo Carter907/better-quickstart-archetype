@@ -1,4 +1,4 @@
-# Maven Archetype - Updated Template
+# Maven Archetype - Better Quickstart
 
 This repository contains an updated Maven archetype designed to streamline project creation using the `mvn archetype:generate` goal. It provides a modern, customizable project template for Java developers.
 
